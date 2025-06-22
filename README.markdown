@@ -93,7 +93,4 @@ plt.show()
 - **Document Assumptions**: Clearly document any assumptions made during data cleaning or analysis to ensure reproducibility.
 
 ## Contact
-For questions or issues related to the dataset, please contact the data provider or refer to the original source documentation (if available). If you need assistance with data extraction or analysis, consider reaching out to data science communities or forums.
-
-## License
-The dataset's license is not specified in the provided document. Users should verify the licensing terms with the original data provider to ensure compliance with usage and distribution policies.
+For questions or issues related to the dataset, please contact the data provider or refer to the original source documentation. If you need assistance with data extraction or analysis, consider reaching out to data science communities or forums.
